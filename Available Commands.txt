@@ -1,0 +1,13 @@
+Rest(Silent Mode)
+Tell Date
+Tell Time
+Tell Day
+Set alarms
+Wikipedia search of queries
+Mute/UnMute
+Increase and Decrease Volume
+Search available Wifi Networks
+Tells about herself
+Play,Pause Music
+Change Tracks
+Replies to "how are you april" and "hello april" 

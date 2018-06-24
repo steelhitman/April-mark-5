@@ -1,0 +1,299 @@
+Profile Name: BBDU-YW5zaHVtYW5iaGFyZHdheg
+SSID: BBDU-YW5zaHVtYW5iaGFyZHdheg
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 68%
+Security Enabled: False
+Authentication: DOT11_AUTH_ALGO_80211_OPEN
+Cipher: DOT11_CIPHER_ALGO_NONE
+Flags: 3
+
+--------------------
+Profile Name: <No Profile>
+SSID: Moto G (4) 6200
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 48%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: BBDU-YW5zaHVtYW5iaGFyZHdheg
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 72%
+Security Enabled: False
+Authentication: DOT11_AUTH_ALGO_80211_OPEN
+Cipher: DOT11_CIPHER_ALGO_NONE
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: Rsecure
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 3
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 100%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: Honor 9 Lite_3151
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 68%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 8
+
+--------------------
+Profile Name: <No Profile>
+SSID: Mr. Maurya
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 50%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: vivo 1601
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 56%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: JioPrivateNet
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 3
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 100%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 48
+
+--------------------
+Profile Name: <No Profile>
+SSID: Rconsultant
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 3
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 100%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: LS-5504
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 60%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: Anchu
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 52%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: Oops...
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 70%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: AndroidAP
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 2
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 100%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: AndroidAP_5664
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 98%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: JAI HO
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 94%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: Khursheed
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 50%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: alok
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 70%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: vivo 1609
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 60%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: JioFi4_08E4F7
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 44%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: MITH
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 100%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: Arvind 
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 76%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: B6CU-ZXIuc2hpdmFteWFkYXY
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 28%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_RSNA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------
+Profile Name: <No Profile>
+SSID: oppo
+BSS Type: dot11_BSS_type_infrastructure
+Number of BSSIDs: 1
+Connectable: True
+Number of PHY types: 1
+Signal Quality: 68%
+Security Enabled: True
+Authentication: DOT11_AUTH_ALGO_WPA_PSK
+Cipher: DOT11_CIPHER_ALGO_CCMP
+Flags: 0
+
+--------------------

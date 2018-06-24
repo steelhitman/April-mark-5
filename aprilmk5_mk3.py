@@ -11,6 +11,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import control_volume as volume
 import random
+import signal_save as ss
     
 def rest():
     tts = gTTS(text="If you need me, I'll be around", lang='en')
@@ -27,7 +28,7 @@ def rest():
         with sr.Microphone(device_index = device_id, sample_rate = sample_rate, 
                                 chunk_size = chunk_size) as source:
             try:
-                r.adjust_for_ambient_noise(source,0.1)
+                r.adjust_for_ambient_noise(source,1)
                 print "In silent Mode..."
         
                 audio = r.listen(source)
@@ -84,7 +85,7 @@ while True:
                             chunk_size = chunk_size) as source:
 
         r.dynamic_energy_threshold = False
-        r.adjust_for_ambient_noise(source,0.1)
+        r.adjust_for_ambient_noise(source,1)
         print "Say Something"
         
         audio = r.listen(source)
@@ -103,7 +104,7 @@ while True:
                     clip.play()
                     time.sleep(length)
                     clip.stop()
-                    r.adjust_for_ambient_noise(source,0.1)
+                    r.adjust_for_ambient_noise(source,1)
                     audio=r.listen(source)
                     text = r.recognize_google(audio)
                     print "you said: " + text
@@ -191,6 +192,19 @@ while True:
                 elif text=="tell me about yourself":
                     os.system("start about_me.py")
 
+                elif "wifi" in text:
+                    te=text.split(" ")
+                    x=int(te[2])
+                    networks=ss.wifi_networks(x)
+                    out="The top "+str(x)+" wifi networks are "
+                    for s in networks:
+                        out=out+s+", "
+                    out=out.strip(",")
+                    f=open("wifi_out.txt",'w')
+                    f.write(out)
+                    f.close()
+                    os.system("start wifi_out.py")
+
                 elif text=="play music":
                     volume.play()
 
@@ -208,6 +222,9 @@ while True:
 
                 elif text=="play previous track":
                     volume.prev()
+                    
+                elif text=="full volume":
+                    volume.Volume_up_full()
                     
                 elif vol_con=="set the volume to":
                     te=text.split(" ")
@@ -298,7 +315,7 @@ while True:
                 elif x==2:
                     speak("I'm good sir")
                 elif x==3:
-                    speak("I am a machine what do you expect sir")
+                    speak("I am a machine what do you expect ")
                 f="audio.mp3"
                 audio = MP3(f)
                 length=audio.info.length

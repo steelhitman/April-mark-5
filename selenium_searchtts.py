@@ -10,11 +10,15 @@ import os
 from gtts import gTTS
 global text
 text=""
+f=0
 fp=open("command_search.txt",'r')
 for line in fp:
-    text=line
+    if f==0:
+        text=line
+    f=f+1
 fp.close
-driver = webdriver.Chrome(executable_path=r"C:\Python27\april\chromedriver.exe")
+print text
+driver = webdriver.Chrome(executable_path=r"C:\Python27\april\Test mark 5\chromedriver.exe")
 driver.get("https://www.wikipedia.org/")
 elem = driver.find_element_by_name("search")
 elem.clear()
