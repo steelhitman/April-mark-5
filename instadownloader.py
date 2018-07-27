@@ -5,8 +5,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 import sys
 import time
 
-username="prashantarya_47"
-password="steelhitman47"
+username="#"
+password="#"
 
 driver = webdriver.Chrome(executable_path=r"C:\Python27\april\Test mark 5\chromedriver.exe")
 driver.get("https://www.instagram.com/accounts/login/")
