@@ -7,6 +7,7 @@ Wikipedia search of queries
 Mute/UnMute
 Increase and Decrease Volume
 Search available Wifi Networks
+tells the battery percentage and if power cable is attached or not
 Tells about herself
 Play,Pause Music
 Change Tracks

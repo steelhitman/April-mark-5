@@ -65,7 +65,8 @@ clip.play()
 time.sleep(length)
 clip.stop()
 
-mic_name = "USB Device 0x46d:0x825: Audio (hw:1, 0)"
+#mic_name = "USB Device 0x46d:0x825: Audio (hw:1, 0)"
+mic_name="Microphone (Realtek High Defini, MME (2 in, 0 out)"
 sample_rate = 48000
 chunk_size = 2048
 
@@ -188,6 +189,9 @@ while True:
                     f.close()
                     os.system("start selenium_searchtts.py")
                     #search(key)
+
+                elif text=="power stats":
+                    os.system("start battery.py")
 
                 elif text=="tell me about yourself":
                     os.system("start about_me.py")
